@@ -1,8 +1,6 @@
 ### Hi there, I'm Jordan 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Jordan_B_Burton?color=1DA1F2&logo=Twitter&style=for-the-badge)
-<!--
-**JBB-bio/JBB-bio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## I am a Graduate Student with research focused towards bioinformatics and proteomics!
 

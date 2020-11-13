@@ -1,6 +1,6 @@
 ### Hi there, I'm Jordan 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Jordan_B_Burton?color=1DA1F2&logo=Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Jordan_B_Burton?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJordan_B_Burton&screen_name=Jordan_B_Burton)
 
 ## I am a Graduate Student with research focused towards bioinformatics and proteomics!
 

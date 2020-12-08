@@ -4,10 +4,11 @@
 
 ## I am a Graduate Student with research focused towards bioinformatics and proteomics!
 
-- 🔭 I’m currently working on comparing the proteins identified from different methods used to isolate extracellular vesicles.
-- 🌱 I’m currently learning normalization methods, python and other coding languages.
-- 🥅 2020 Goals: Wrap up two projects related to Tandem Mass Tags.
-- ⚡ Fun fact: I like to cycle around Detroit.
+- I’m currently working on comparing the proteins identified from different methods used to isolate extracellular vesicles.
+- I’m currently learning normalization methods, python and other coding languages.
+- 2020 Goals: Wrap up two projects related to Tandem Mass Tags.
+- Fun fact: I like to cycle around Detroit.
+- I have been using Roam Research for notetaking and keeping track of my thoughts.
 
 <br />
 

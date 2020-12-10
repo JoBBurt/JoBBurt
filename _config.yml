@@ -1,0 +1,13 @@
+title: >
+  Jordan Burton's Blog
+author: JoBBurt
+email: jordan.burton@wayne.edu
+description: > # this means to ignore newlines until "baseurl:"
+  This blog is a collection of thoughts on life as a graduate student and my research involving bioinformatics, proteomics, separations and extracellular vesicles.
+# social links
+twitter_username: JoBBurt # DO NOT include the @ character, or else the build will fail!
+github_username:  JoBBurt # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-minimal

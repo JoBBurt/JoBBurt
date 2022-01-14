@@ -6,7 +6,7 @@
 
 - I’m currently working on comparing the proteins identified from different methods used to isolate extracellular vesicles.
 - I’m currently learning normalization methods, python and other coding languages.
-- 2021 Goals: Wrap up one project related to Tandem Mass Tags & one project related to Extracellular Vesicles.
+- 2022 Goals: Wrap up my disseration and advance research on Alzheimers disease.
 - Fun fact: I like to cycle around Detroit.
 - I have been using Roam Research for notetaking and keeping track of my thoughts.
 

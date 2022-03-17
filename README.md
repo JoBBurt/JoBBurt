@@ -2,13 +2,21 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoBBurt?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJoBBurt&screen_name=JoBBurt)
 
-## I am a Graduate Student with research focused towards bioinformatics and proteomics!
+## I am a Post-doctoral Research Fellow with research focused on understanding age-related diseases!
 
-- I’m currently working on comparing the proteins identified from different methods used to isolate extracellular vesicles.
-- I’m currently learning normalization methods, python and other coding languages.
-- 2022 Goals: Wrap up my disseration and advance research on Alzheimers disease.
-- Fun fact: I like to cycle around Detroit.
-- I have been using Roam Research for notetaking and keeping track of my thoughts.
+- Currently working on projects related to osteoarthritis and Alzheimer's disease.
+- 2022 Goals: Publish papers related to my doctoral research (1/5 complete).
+- Fun fact: I enjoy spending time outside hiking, cycling, and camping.
+- I have been using Roam Research for notetaking, which has been extremely valuable for data mining thoughts while writing.
+
+<br />
+
+## My disseration work focused on:
+
+- Evaulating methods used to isolate extracellular vesicles.
+- Developing informatics approaches to interpret proximity labeling experiments and to evaluate the quality of extracellular vesicle preparations.
+- Understanding off-target labeling of hydroxyl-containing residues in tandem mass tag labeling experiments.
+
 
 <br />
 

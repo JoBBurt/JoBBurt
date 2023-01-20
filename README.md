@@ -4,10 +4,9 @@
 
 ## I am a Post-doctoral Research Fellow with research focused on understanding age-related diseases!
 
-- Currently working on projects related to osteoarthritis and Alzheimer's disease.
-- 2022 Goals: Publish papers related to my doctoral research (1/5 complete).
-- Fun fact: I enjoy spending time outside hiking, cycling, and camping.
-- I have been using Roam Research for notetaking, which has been extremely valuable for data mining thoughts while writing.
+- Currently working on projects related to osteoarthritis, kidney injury, breast cancer and brain aging.
+
+- I have been using Tana for notetaking, which has been extremely valuable for data mining thoughts while writing.
 
 <br />
 

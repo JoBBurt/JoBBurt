@@ -1,12 +1,9 @@
 ### Hi there, I'm Jordan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JoBBurt?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJoBBurt&screen_name=JoBBurt)
+## I am a Scientific Analyst with research experience focused on understanding age-related diseases!
 
-## I am a Post-doctoral Research Fellow with research focused on understanding age-related diseases!
+- In my postdoctoral research at the Buck Institute for Research on Aging, I colloborated and led projects related to osteoarthritis, kidney injury, breast cancer and brain aging.
 
-- Currently working on projects related to osteoarthritis, kidney injury, breast cancer and brain aging.
-
-- I have been using Tana for notetaking, which has been extremely valuable for data mining thoughts while writing.
 
 <br />
 

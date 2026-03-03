@@ -151,26 +151,24 @@ Burton JB et al.
 
 ## Featured Research
 
-<a href="https://github.com/JoBBurt/Human-FFPE-Breast-Cancer-Subtypes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoBBurt&repo=Human-FFPE-Breast-Cancer-Subtypes&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JoBBurt/Kidney-Injury-ZenoTOF-DIA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoBBurt&repo=Kidney-Injury-ZenoTOF-DIA&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JoBBurt/NHP-RLEC-Kidney-Cortex-timsTOF-HT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoBBurt&repo=NHP-RLEC-Kidney-Cortex-timsTOF-HT&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JoBBurt/proteomics-skill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoBBurt&repo=proteomics-skill&theme=tokyonight&hide_border=true" />
-</a>
+| Repository | Description | Language |
+|:-----------|:------------|:--------:|
+| [**Human-FFPE-Breast-Cancer-Subtypes**](https://github.com/JoBBurt/Human-FFPE-Breast-Cancer-Subtypes) | Proteomic biomarker and aging signatures for aggressive human metaplastic and other breast cancer subtypes isolated from FFPE tissues | ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| [**Kidney-Injury-ZenoTOF-DIA**](https://github.com/JoBBurt/Kidney-Injury-ZenoTOF-DIA) | DIA proteomics analysis of acute kidney injury using ZenoTOF 7600 | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**NHP-RLEC-Kidney-Cortex-timsTOF-HT**](https://github.com/JoBBurt/NHP-RLEC-Kidney-Cortex-timsTOF-HT) | Kidney cortex injury proteome in accelerated aging in non-human primates via deep proteomic profiling | ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| [**proteomics-skill**](https://github.com/JoBBurt/proteomics-skill) | Claude Code skill for proteomics data analysis — normalization, visualization, pathway analysis, and protein list cross-referencing | ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| [**Pattern-Recognition**](https://github.com/JoBBurt/Pattern-Recognition) | R scripts for pattern recognition by mapping to data from localization of proteins by isotope tagging (LOPIT) | ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoBBurt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBBurt&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoBBurt&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoBBurt&theme=tokyonight"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoBBurt&theme=tokyonight"/>
 </p>
 
 ---

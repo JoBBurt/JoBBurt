@@ -29,7 +29,7 @@ role: Associate & Investment Committee Member (Voting)
 organization: Lifespan Vision Ventures
 based_in: San Francisco Bay Area, CA
 background:
-  - Biotech Venture Capital ($25M+ deployed, 20+ investments)
+  - Biotech Venture Capital
   - Proteomics & Mass Spectrometry
   - Computational Biology & Machine Learning
 current_focus:
@@ -37,8 +37,7 @@ current_focus:
   - ML-powered deal screening frameworks
   - Multi-omics data infrastructure for drug discovery
 leadership:
-  - Chair, US HUPO Education & Outreach Committee
-  - Board Observer, Bolden Therapeutics
+  - Chair, US HUPO Education & Outreach Committee (2025-2026)
   - President, Buck Institute Postdoctoral Association (2023-2024)
 ```
 

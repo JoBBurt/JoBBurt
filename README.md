@@ -103,7 +103,6 @@ Burton JB et al.
 |---------|-------------|
 | **[Lifespan Vision Ventures](https://lifespanvisionventures.com)** | Managing portfolio of 20+ healthcare technology ventures. Led diligence on deals securing strategic pharma partnerships and advancing to Series A. |
 | **[Lifespan Consulting](https://lifespan-consulting.com)** | Scientific consulting for aging research, biotech due diligence, and proteomics analysis. |
-| **Burton Frontier Ventures** | New fund focused on longevity and frontier biotech. |
 | **ML Deal Screening** | Automated framework evaluating 200+ therapeutic platforms using computational diligence — improved deal selection by 40%. |
 | **PAI for Biotech** | Personal AI infrastructure for research and investment decision-making, including proteomics analysis skills and entity screening tools. |
 
